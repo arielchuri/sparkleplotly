@@ -8,7 +8,9 @@ We'll be using a Javascript Library called "Johnny-Five" to communicate over USB
 #### Install node.js
 [Download Here](http://nodejs.org/download)
 Once installed, run this in your terminal:
+'''
 $ node -v
+'''
 If everything went well, you should see the version of node you have installed:
 v0.10.29
 ####Download and install the latest Arduino software
