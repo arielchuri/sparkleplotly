@@ -1,7 +1,6 @@
 sparkleplotly
 =============
-
-# Check for updates at sparklelabs.com/plotly
+Check for updates at sparklelabs.com/plotly
 ## Getting started with Javascript + Arduino
 The easiest way to start visualizing sensor data with your Arduino!
 Instead of programming using the C-like Arduino language, we're going to leverage the language of the web, Javascript, to interact with our Arduino!
