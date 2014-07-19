@@ -34,7 +34,7 @@ $ npm install plotly$ npm install johnny-five
 #### Create an account on plot.ly
 Create 2 stream tokens to show your sensor data.
 ####Download the sparkle-labs examples into your project folder
-[Download Here](http://sparklelabs.com/plotly)
+[Download Here](https://github.com/arielchuri/sparkleplotly/blob/master/sparkleplotly.js)
 Edit the file with your own user ID, API key, and stream tokens from plot.ly.
 ```
 $ node sparkleplotly.js
